@@ -5,7 +5,7 @@ test('annetaan ika 20', () => {
 });
 
 test('annetaan ika 2', () => {
-    expect(lippu(2)).toBe("ilmainen");
+    expect(lippu(2)).toBe("Ei maksa");
 });
 
 test('annetaan ika 15', () => {
