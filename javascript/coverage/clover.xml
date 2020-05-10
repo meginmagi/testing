@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1589108233179" clover="3.2.0">
+  <project timestamp="1589108233179" name="All files">
+    <metrics statements="50" coveredstatements="47" conditionals="49" coveredconditionals="44" methods="5" coveredmethods="5" elements="104" coveredelements="96" complexity="0" loc="50" ncloc="50" packages="1" files="5" classes="5">
+      <file name="bussi.js" path="C:\Users\rockh\testing\github\bussi.js">
+        <metrics statements="13" coveredstatements="13" conditionals="16" coveredconditionals="15" methods="1" coveredmethods="1"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+      <file name="demo1.js" path="C:\Users\rockh\testing\github\demo1.js">
+        <metrics statements="7" coveredstatements="7" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="2" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+      </file>
+      <file name="ika.js" path="C:\Users\rockh\testing\github\ika.js">
+        <metrics statements="11" coveredstatements="10" conditionals="10" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="3" count="4" type="cond" truecount="3" falsecount="1"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="10" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="18" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="kpa.js" path="C:\Users\rockh\testing\github\kpa.js">
+        <metrics statements="12" coveredstatements="10" conditionals="12" coveredconditionals="10" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+      </file>
+      <file name="osamaara.js" path="C:\Users\rockh\testing\github\osamaara.js">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
